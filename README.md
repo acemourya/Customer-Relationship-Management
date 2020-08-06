@@ -11,8 +11,7 @@ Console based desktop based browser, mobile browser, ZOHO soft etc .
  
 **Some CRM Webapp soft. :** Bitrix24, Freshsales, Zoho CRM etc.
  
-#### Software used
-      JetBrains PyCharm Community Edition 2018.1.4 x64, Xampp etc.
+**Software required :**  JetBrains PyCharm Community Edition 2018.1.4 x64, Xampp etc.
 
 ### SCOPE of project
 
