@@ -1,5 +1,5 @@
 # Customer Relationship Management
-Customer relationship management (CRM) is one of many different approaches that allow a company to manage and analyse its own interactions with its past, current and potential customers. It uses data analysis about customers' history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.
+Customer relationship management (CRM) allow a company to manage and analyse its own interactions with its past, current and potential customers. It uses data analysis about customers' history with a company to improve business relationships with customers, specifically focusing on customer retention and ultimately driving sales growth.CRM system helps companies stay connected to customers, streamline processes, and improve profitability.
 
 ## TECHNOLOGIES:
 I used the python(Django)  for making the CRM webapp and  I used  different libraries likes:-
